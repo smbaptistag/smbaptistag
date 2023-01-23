@@ -3,6 +3,7 @@
 I'm a civil engineer with a master's degree in project management and real estate management.
 I love solving problems, it's the problems that are at the origin of humanity's evolution and prosperity.
 Recently (2020) I discovered Data Science and Data Analytics and their potential to add value to an organization's business. Since then, I have invested myself in studying the subject and learning new essential tools for exercising these professions.
+
 I'm loving this journey!!!
 
   ## Some Tools that I work with
