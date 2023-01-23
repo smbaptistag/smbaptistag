@@ -45,6 +45,7 @@ I'm loving this journey!!!
   * [Customer cluster](https://github.com/smbaptistag/All-in-One-Place)
   * [Rossmann store sales forecast](https://github.com/smbaptistag/rossmann_sales_prediction)
   * [Fraud detection](https://github.com/smbaptistag/blocker_fraud_company)
+  * [Real Estate Analysis](https://github.com/smbaptistag/house_rocket_company)
 
 ## Contacts
 <div>
