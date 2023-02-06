@@ -36,12 +36,13 @@ I'm loving this journey!!!
   <br />
   <div>
     <img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
+    <img align="center" src=" https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </div>
   <br />
   <div>
     <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  </div>
+   </div>
 
 
 <h2><a target="_blank" href="https://github.com/smbaptistag?tab=repositories">Projects Portfolio</a></h2>
