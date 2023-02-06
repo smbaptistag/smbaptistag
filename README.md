@@ -36,7 +36,7 @@ I'm loving this journey!!!
   <br />
   <div>
     <img align="center" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
-    <img align="center" src=" https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img align="center" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </div>
   <br />
   <div>
